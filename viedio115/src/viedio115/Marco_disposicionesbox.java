@@ -47,7 +47,7 @@ public class Marco_disposicionesbox extends JFrame{
         cajavertical.add(caja2);
         cajavertical.add(caja3);
         add(cajavertical, BorderLayout.CENTER);
-        
+        //dadsasd a
         
 		
 	}

@@ -10,7 +10,7 @@ public class Main_disposicionmuelle {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
             
-		    Marco_disposicionmuelle marco1 = new  Marco_disposicionmuelle();
+		    Marco_disposicionlibre marco1 = new  Marco_disposicionlibre();
 		    marco1.setVisible(true);
 		    marco1.setFocusableWindowState(true);
 		    marco1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

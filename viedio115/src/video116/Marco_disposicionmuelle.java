@@ -11,7 +11,7 @@ public class Marco_disposicionmuelle extends JFrame {
 		// TODO Auto-generated constructor stub
 		setBounds(400,300,400, 300);
 		setTitle("Disposiosicin de caja");
-		add(new Paneldisposicion());
+		//add(new Paneldisposicion());
 	}
 
 }

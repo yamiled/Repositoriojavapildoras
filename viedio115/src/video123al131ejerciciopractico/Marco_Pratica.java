@@ -41,7 +41,7 @@ private Panel_pratica paneltipo;
 	   paneltipo = new  Panel_pratica("Tipo", opciones);
 
 	   paneltipomensaje = new  Panel_pratica("Tipo de Mensaje", new  String[] {
-			   "ERROR_MESSAGE","INFORMATION_MESSAGE", "QUESTION_MESSAGE","PLAIN_MESSAGE"
+			   "ERROR_MESSAGE","INFORMATION_MESSAGE","WARNING_MESSAGE", "QUESTION_MESSAGE","PLAIN_MESSAGE"
 	   });
 
 	   panelmensaje = new  Panel_pratica("Mensaje", new  String[] {

@@ -14,6 +14,5 @@ public class Main_Pratica {
 		Marco_Pratica marco1 = new  Marco_Pratica();
 	    marco1.setVisible(true);
 	    marco1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		  
 	 }
 }
